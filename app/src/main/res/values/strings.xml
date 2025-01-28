@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CRYPTOAPP</string>
+    <string name="crypto" />
+    <string name="CRIPTOAPP" />
+    <string name="logo_criptomoneda" />
+    <string name="monedas">monedas</string>
+    <string name="metricas">metricas</string>
+    <string name="cryptoapp">CRYPTOAPP</string>
+    <string name="cargando">Cargando…</string>
+    <string name="capitalizaci_n_total_usd_s">Capitalización Total (USD): %s\n\n</string>
+    <string name="capitalizaci_n_total_del_mercado_usd_s">Capitalización total del mercado (USD): %s\n</string>
+    <string name="error_de_conexi_n">Error de conexión.</string>
+    <string name="crypt">CRYPTOAPP</string>
+</resources>

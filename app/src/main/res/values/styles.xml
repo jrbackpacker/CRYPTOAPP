@@ -1,0 +1,7 @@
+<resources>
+    <!-- Estilo personalizado para el Spinner -->
+    <style name="CustomSpinnerStyle" parent="Widget.AppCompat.Spinner">
+        <item name="android:popupBackground">@drawable/spinner_dropdown_background</item>
+        <item name="android:dropDownVerticalOffset">4dp</item>
+    </style>
+</resources>
